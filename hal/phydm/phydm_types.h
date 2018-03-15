@@ -236,6 +236,7 @@ enum rt_spinlock_type {
 		#define	ODM_ENDIAN_TYPE			ODM_ENDIAN_BIG
 	#endif
 
+
 	#define	boolean	bool
 
 	#define true	_TRUE
